@@ -14,10 +14,10 @@
 
 | Projet | Type | Description | Lien |
 |--------|------|-------------|------|
-| **P13** | 🏆 Gouvernance IA | Portfolio & RNCP 37837 — Optimisation notebook (-68%), 18 contrôles qualité, 26 prompts tracés | [📄 Repo](https://github.com/ferialzamoun-afk/P13) |
-| **P12** | 🔍 ML Classification | Détection Faux Billets — RandomForest 99% accuracy, FastAPI, Joblib export | [📄 Repo](https://github.com/ferialzamoun-afk/P12) |
-| **P11** | 📈 Clustering & ACP | Export Poulets Bio — 5 clusters pays, ACP 89.9% variance, recommandations PESTEL | [📄 Repo](https://github.com/ferialzamoun-afk/P11) |
-| **P10** | 🌊 Power BI Dashboard | ODD ONU Eau Potable — 150+ pays, 5 sources, star schema, heatmap & choropléthe | [📄 Repo](https://github.com/ferialzamoun-afk/P10) |
+| **P13** | 🏆 Gouvernance IA | Portfolio & RNCP 37837 — Optimisation notebook (-68%), 18 contrôles qualité, 26 prompts tracés | [📄 Repo](https://github.com/ferialzamoun-afk/MON-PORTFOLIO-DATA/tree/main/projets/P13_portfolio) |
+| **P12** | 🔍 ML Classification | Détection Faux Billets — LogisticRegression 99% accuracy, FastAPI, Joblib export | [📄 Repo](https://github.com/ferialzamoun-afk/MON-PORTFOLIO-DATA/blob/main/projets/P12_faux_billets/README.md) |
+| **P11** | 📈 Clustering & ACP | Export Poulets Bio — 5 clusters pays, ACP 89.9% variance, recommandations PESTEL | [📄 Repo](https://github.com/ferialzamoun-afk/MON-PORTFOLIO-DATA/blob/main/projets/P11_export_poulets_bio/README.md) |
+| **P10** | 🌊 Power BI Dashboard | ODD ONU Eau Potable — 150+ pays, 5 sources, star schema, heatmap & choropléthe | [📄 Repo](https://github.com/ferialzamoun-afk/MON-PORTFOLIO-DATA/blob/main/projets/P10_odd_onu_eau_potable/README.md) |
 | **P9** | 📊 Streamlit Live | Lapage Librairie Analytics — Ventes en temps réel, segmentation clients, KPI Excel | [🌐 App](https://p9-lapage-app-9jzz7bhjbzdalqkrzaiz62.streamlit.app/) |
 
 ---
@@ -25,7 +25,7 @@
 ## 📚 Ce Que Je Fais
 
 - **Analyse Exploratoire (EDA)** : Jupyter, Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning** : scikit-learn (KMeans, ACP, LogisticRegression, RandomForest), Statsmodels
+- **Machine Learning** : scikit-learn (KMeans, ACP, LogisticRegression, RandomForest, KNN), Statsmodels
 - **Data Pipelines** : dbt 1.11.3, Snowflake, SQL
 - **Visualisation** : Power BI, Streamlit, Plotly
 - **Qualité Données** : Great Expectations, contrôles qualité, validation data
