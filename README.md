@@ -8,7 +8,7 @@
 
 ## 🎯 Découvrir Mon Portfolio
 
-👉 **[MON-PORTFOLIO-DATA](https://github.com/ferialzamoun-afk/MON-PORTFOLIO-DATA)** — Hub complet avec gouvernance IA, 9 projets, veille technologique et proof points
+👉 **[MON-PORTFOLIO-DATA](https://github.com/ferialzamoun-afk/MON-PORTFOLIO-DATA)** — Hub complet avec gouvernance IA, 12 projets, veille technologique et proof points
 
 ### 🚀 Quick Links — Projets Phares
 
