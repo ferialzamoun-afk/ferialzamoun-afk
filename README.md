@@ -35,7 +35,7 @@
 
 ## 🎓 Certifications & Formation
 
-- **RNCP 37837** — Data Analyst (en cours)
+- **RNCP 37837** — Data Analyst
 - **OpenClassrooms / GRETA** — Formation intensive
 - **25 ans expérience IT** — Développement, AMOA, Tests, Pilotage
 
