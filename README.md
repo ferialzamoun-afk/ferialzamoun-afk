@@ -14,6 +14,7 @@
 
 | Projet | Type | Description | Lien |
 |--------|------|-------------|------|
+| **P14** | 🏪 Retail Analytics | Stage Intermarché — disponibilité produit, performance assortiment, pipeline Python/Power BI/Streamlit | [📄 Repo](https://github.com/ferialzamoun-afk/MON-PORTFOLIO-DATA/blob/main/projets/P14_stage/README.md) |
 | **P13** | 🏆 Gouvernance IA | Portfolio & RNCP 37837 — Optimisation notebook (-68%), 18 contrôles qualité, 26 prompts tracés | [📄 Repo](https://github.com/ferialzamoun-afk/MON-PORTFOLIO-DATA/tree/main/projets/P13_portfolio) |
 | **P12** | 🔍 ML Classification | Détection Faux Billets — LogisticRegression 99% accuracy, FastAPI, Joblib export | [📄 Repo](https://github.com/ferialzamoun-afk/MON-PORTFOLIO-DATA/blob/main/projets/P12_faux_billets/README.md) |
 | **P11** | 📈 Clustering & ACP | Export Poulets Bio — 2 clusters pays, ACP 89.9% variance, recommandations PESTEL | [📄 Repo](https://github.com/ferialzamoun-afk/MON-PORTFOLIO-DATA/blob/main/projets/P11_etude_marche/README.md) |
@@ -35,7 +36,7 @@
 
 ## 🎓 Certifications & Formation
 
-- **RNCP 37837** — Data Analyst (en cours)
+- **RNCP 37837** — Data Analyst (obtenu)
 - **OpenClassrooms / GRETA** — Formation intensive
 - **25 ans expérience IT** — Développement, AMOA, Tests, Pilotage
 
