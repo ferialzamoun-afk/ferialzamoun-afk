@@ -14,6 +14,7 @@
 
 | Projet | Type | Description | Lien |
 |--------|------|-------------|------|
+| **P15** | 🧭 Observatoire Emploi Data & IA | Projet personnel — cartographie marché de l'emploi Data & IA, confrontation BMO 2026, audit RNCP, DuckDB/Power BI/Streamlit | [🌐 App](https://8i4kbcfrhfrty7p8ivapeu.streamlit.app/) · [📄 Repo](https://github.com/ferialzamoun-afk/MON-PORTFOLIO-DATA/blob/main/projets/P15_observatoire_emploi_data/README.md) |
 | **P14** | 🏪 Retail Analytics | Stage Intermarché — disponibilité produit, performance assortiment, pipeline Python/Power BI/Streamlit | [📄 Repo](https://github.com/ferialzamoun-afk/MON-PORTFOLIO-DATA/blob/main/projets/P14_stage/README.md) |
 | **P13** | 🏆 Gouvernance IA | Portfolio & RNCP 37837 — Optimisation notebook (-68%), 18 contrôles qualité, 26 prompts tracés | [📄 Repo](https://github.com/ferialzamoun-afk/MON-PORTFOLIO-DATA/tree/main/projets/P13_portfolio) |
 | **P12** | 🔍 ML Classification | Détection Faux Billets — LogisticRegression 99% accuracy, FastAPI, Joblib export | [📄 Repo](https://github.com/ferialzamoun-afk/MON-PORTFOLIO-DATA/blob/main/projets/P12_faux_billets/README.md) |
